@@ -1,6 +1,6 @@
 # Bypass cmd and ps1 Restriction on Windows Desktop  
 
->Windows bypass CMD & PowerShell Restriction  
+>Windows bypass CMD & PowerShell Restriction inforced by Microsoft App Locker [AppLocker](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/applocker-overview)  
 
 >The follow content saved to a file named `bypasscmd.bat` on the desktop of user on windows computer.  
 
